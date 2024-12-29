@@ -2,6 +2,12 @@
 
 A Raycast extension that provides quick access to your OTP Auth tokens. This extension integrates with [OTP Auth](https://apps.apple.com/us/app/otp-auth/id1471867429) by Roland Moers, allowing you to view your 2FA codes directly from Raycast.
 
+![otp-auth-1](https://github.com/user-attachments/assets/6a500461-b3a0-41fa-8ca3-4ce04a638685)
+![otp-auth-2](https://github.com/user-attachments/assets/fae5591d-4737-482c-9238-e4f3a21c07d3)
+![otp-auth-3](https://github.com/user-attachments/assets/c10427bf-3634-4c52-92a0-86fa00c7b894)
+
+
+
 ## Requirements
 
 - [OTP Auth for Mac](https://apps.apple.com/us/app/otp-auth/id1471867429) must be installed
