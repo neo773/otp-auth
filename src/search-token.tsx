@@ -34,10 +34,7 @@ function searchToken() {
           icon={Icon.Warning}
           actions={
             <ActionPanel>
-              <Action.OpenInBrowser
-                title="Get Otp Auth"
-                url="https://apps.apple.com/us/app/otp-auth/id1471867429"
-              />
+              <Action.OpenInBrowser title="Get Otp Auth" url="https://apps.apple.com/us/app/otp-auth/id1471867429" />
             </ActionPanel>
           }
         />
